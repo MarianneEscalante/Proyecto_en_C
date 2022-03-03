@@ -66,7 +66,7 @@ gtk_widget_set_hexpand(botones[i], TRUE);
 gtk_widget_set_vexpand(botones[i], TRUE);
 
 
-//Hace que la forma de los botones sea cuadrada.
+// Forma de los botones.
 gtk_grid_attach(GTK_GRID (tablero), botones[i], i/3, i%3, 1, 1);
     }
 
