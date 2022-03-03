@@ -6,7 +6,9 @@ Luis Diego Madrigal B94453
 Katherine Vargas B88198
 
 Bibliotecas necesarias:
-GTK +3.0: se instala con: sudo apt-get install libgtk-3-dev
+GTK +3.0: se instala con:
+$ sudo apt-get install libgtk-3-dev
+
 Así también para poder compilar se necesitará tener instalado: 
 sudo apt-get install pkg-config
 sudo apt install gcc
