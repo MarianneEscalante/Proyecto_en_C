@@ -1,5 +1,6 @@
 # Proyecto_en_C
-Proyecto en lenguaje C realizado para el curso Programación Bajo Pataformas Abiertas III ciclo 2021
+Proyecto en lenguaje C realizado para el curso Programación Bajo Pataformas Abiertas III ciclo 2021.
+
 Marianne Escalante B72710
 Luis Diego Madrigal B94453
 Katherine Vargas B88198
