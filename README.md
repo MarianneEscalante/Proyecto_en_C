@@ -11,7 +11,9 @@ $ sudo apt-get install libgtk-3-dev
 
 Así también para poder compilar se necesitará tener instalado: 
 $ sudo apt-get install pkg-config
+
 $ sudo apt install gcc
+
 $ sudo apt-get install make
 
 Para compilar el código: 
