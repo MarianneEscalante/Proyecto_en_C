@@ -1,6 +1,8 @@
 # Proyecto_en_C
 Proyecto en lenguaje C realizado para el curso Programación Bajo Pataformas Abiertas III ciclo 2021.
 
+El proyecto es un  juego de gato presentado desde una interfaz gráfica, que permite al usuario elegir la posición de los símbolos "O" u "X". El código debe verificar si alguno de los jugadores ha completado una linea vertical, diagonal u horizontal y  que de esta manera termine la partida. Una vez colocado un simbolo en una casilla  no se pueden reemplazar.
+
 Marianne Escalante B72710
 Luis Diego Madrigal B94453
 Katherine Vargas B88198
