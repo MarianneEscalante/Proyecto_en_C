@@ -87,6 +87,7 @@ gtk_widget_show_all(ventana);
 gtk_window_set_resizable(GTK_WINDOW(ventana),FALSE);
 }
 
+// Muestra el mensaje de ganador
 void ganador_f() {
   char cadena[10];
     sprintf(cadena, "%c GANA!", jugador_actual);
