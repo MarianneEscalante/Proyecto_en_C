@@ -74,7 +74,7 @@ gtk_grid_attach(GTK_GRID (tablero), botones[i], i/3, i%3, 1, 1);
 texto = gtk_label_new("Jugador actual: X");
 gtk_grid_attach(GTK_GRID (tablero), texto, 0, 3, 2, 1);
 
-//Reinicia el juego cuando el boton de reinicio es utilizado.
+// Se coloca el tablero en la ventana.
 gtk_container_add(GTK_CONTAINER (ventana), tablero);
 gtk_widget_set_hexpand(tablero, TRUE);
 gtk_widget_set_vexpand(tablero, TRUE);
