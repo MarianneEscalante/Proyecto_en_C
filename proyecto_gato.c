@@ -9,6 +9,7 @@ Una vez colocado un simbolo en una casilla  no se pueden reemplazar*/
 // Luis Diego Madrigal B94453
 // Katherine Vargas B88198
 
+// Bibliotecas
 #include <gtk/gtk.h>
 #include <stdlib.h>
 #include <string.h>
